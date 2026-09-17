@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>English Expressions 120</title>
+<meta name="description" content="英会話で使える表現・構文120選。検索・カテゴリ絞り込み・英文の音声読み上げに対応した英語表現リファレンス。" />
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">English Expressions 120</h1>
+      <p class="site-subtitle">英会話で使える表現・構文120選</p>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="container">
+      <div class="search-row">
+        <span class="search-icon" aria-hidden="true">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <circle cx="9" cy="9" r="5.5" /><line x1="13.2" y1="13.2" x2="17" y2="17" />
+          </svg>
+        </span>
+        <input
+          type="search"
+          id="search"
+          class="search-input"
+          placeholder="表現・意味・例文を検索"
+          aria-label="表現・意味・例文を検索"
+          autocomplete="off"
+        />
+      </div>
+
+      <nav class="filters" id="filters" aria-label="カテゴリフィルター">
+        <button type="button" class="pill is-active" data-category="all" aria-pressed="true">すべて</button>
+        <button type="button" class="pill" data-category="basic" aria-pressed="false">初級</button>
+        <button type="button" class="pill" data-category="advanced" aria-pressed="false">中・上級</button>
+        <button type="button" class="pill" data-category="part1" aria-pressed="false">Part 1</button>
+        <button type="button" class="pill" data-category="part2" aria-pressed="false">Part 2</button>
+        <button type="button" class="pill" data-category="part3" aria-pressed="false">Part 3</button>
+      </nav>
+
+      <div class="meta-row">
+        <p class="count" id="count" role="status" aria-live="polite">120 expressions</p>
+        <div class="speed" id="speed">
+          <span class="speed-label">読み上げ速度</span>
+          <button type="button" class="pill pill-sm" data-rate="0.75" aria-pressed="false">0.75x</button>
+          <button type="button" class="pill pill-sm is-active" data-rate="1" aria-pressed="true">1.0x</button>
+        </div>
+      </div>
+
+      <p class="speech-warning" id="speech-warning" hidden>
+        このブラウザは音声読み上げ（Web Speech API）に対応していないため、読み上げボタンは表示されません。
+      </p>
+    </div>
+  </div>
+
+  <main class="container">
+    <div id="list" class="list"></div>
+    <p id="empty" class="empty" hidden>該当する表現が見つかりませんでした。</p>
+    <p id="loading" class="empty">読み込み中…</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>出典: ATSUの表現・構文厳選120選（OCRテキストから構造化）</p>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

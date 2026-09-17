@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "basic-01",
+    "number": 1,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "It's 形容詞 to do",
+    "meaning": "〜するのは形容詞だ",
+    "examples": [
+      {
+        "english": "It's important to exercise every day.",
+        "japanese": "毎日運動することは重要だ。"
+      },
+      {
+        "english": "It's fun to study English.",
+        "japanese": "英語を勉強するのは楽しい。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 4
+  },
+  {
+    "id": "basic-02",
+    "number": 2,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "It's 形容詞 that 文",
+    "meaning": "文は形容詞だ",
+    "examples": [
+      {
+        "english": "It's impressive that you speak English so well.",
+        "japanese": "そんなに英語を上手に話せるなんてすごいね。"
+      },
+      {
+        "english": "It's surprising that you finished this so quickly.",
+        "japanese": "こんなに早く終わらせるなんてびっくりだよ。"
+      },
+      {
+        "english": "It's interesting that you said that.",
+        "japanese": "そんなこと言うなんて面白いね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 4
+  },
+  {
+    "id": "basic-03",
+    "number": 3,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is so 形容詞 that 文",
+    "meaning": "X はとても形容詞だから文だ",
+    "examples": [
+      {
+        "english": "It was so good that I couldn't stop eating.",
+        "japanese": "美味しすぎて止まらなかった。"
+      },
+      {
+        "english": "It was so expensive that I didn't buy it.",
+        "japanese": "めっちゃ高かったから買わなかった。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 5
+  },
+  {
+    "id": "basic-04",
+    "number": 4,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is too 形容詞 to do",
+    "meaning": "X は形容詞すぎて〜できない",
+    "examples": [
+      {
+        "english": "I'm too tired to go out.",
+        "japanese": "疲れすぎて出掛けられない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 5
+  },
+  {
+    "id": "basic-05",
+    "number": 5,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is 形容詞 enough to do",
+    "meaning": "〜するには X は十分形容詞だ",
+    "examples": [
+      {
+        "english": "I'm not confident enough to speak English in public.",
+        "japanese": "人前で話せるほど英語に自信がない。"
+      },
+      {
+        "english": "It's fast enough to watch YouTube.",
+        "japanese": "YouTube 見れるくらいインターネット速いよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 6
+  },
+  {
+    "id": "basic-06",
+    "number": 6,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "find it 形容詞 to do",
+    "meaning": "〜することは形容詞だと思う",
+    "examples": [
+      {
+        "english": "I find it really interesting to study English.",
+        "japanese": "英語を勉強するのはすごく面白いと思う。"
+      },
+      {
+        "english": "I find it very difficult to speak in public.",
+        "japanese": "人前で話すのはすごく難しいと思う。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 6
+  },
+  {
+    "id": "basic-07",
+    "number": 7,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "文 so that 文",
+    "meaning": "文のために文する",
+    "examples": [
+      {
+        "english": "I'm trying to save money so that I can travel abroad.",
+        "japanese": "海外旅行できるように節約してる。"
+      },
+      {
+        "english": "I want to study English so that I can make more friends.",
+        "japanese": "もっと友達を作れるように英語を勉強したい。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 7
+  },
+  {
+    "id": "basic-08",
+    "number": 8,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "否定文 + at all",
+    "meaning": "全く + 否定文",
+    "examples": [
+      {
+        "english": "I don't like English at all.",
+        "japanese": "英語が全く好きじゃない。"
+      },
+      {
+        "english": "I'm not surprised at all.",
+        "japanese": "全く驚いてないよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 7
+  },
+  {
+    "id": "basic-09",
+    "number": 9,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is the same as Y",
+    "meaning": "X は Y と同じだ",
+    "examples": [
+      {
+        "english": "Your phone is the same as mine. It's iPhone 14, right?",
+        "japanese": "携帯、私のと同じだ。iPhone 14 だよね?"
+      },
+      {
+        "english": "Your taste in fashion is the same as mine.",
+        "japanese": "ファッションの好み、私と同じだね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 8
+  },
+  {
+    "id": "basic-10",
+    "number": 10,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "Just because 文 doesn't mean 文",
+    "meaning": "文だからといって文だとは限らない",
+    "examples": [
+      {
+        "english": "Just because it looks good doesn't mean it's delicious.",
+        "japanese": "見た目が良いからといって美味しいとは限らない。"
+      },
+      {
+        "english": "Just because he smiles a lot doesn't mean he's kind.",
+        "japanese": "いつも笑顔だからといって親切な人とは限らない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 8
+  },
+  {
+    "id": "basic-11",
+    "number": 11,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is not necessarily 形容詞",
+    "meaning": "X は必ずしも形容詞ではない",
+    "examples": [
+      {
+        "english": "Expensive clothes are not necessarily fashionable.",
+        "japanese": "高い服が必ずしもオシャレとは限らない。"
+      },
+      {
+        "english": "Being able to speak English doesn't necessarily mean they are smart.",
+        "japanese": "英語が喋れるからといって必ずしも賢いわけではない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 9
+  },
+  {
+    "id": "basic-12",
+    "number": 12,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X used to do",
+    "meaning": "X はよく〜していた",
+    "examples": [
+      {
+        "english": "I used to play soccer.",
+        "japanese": "昔はよくサッカーしていた。"
+      },
+      {
+        "english": "I used to live in Tokyo.",
+        "japanese": "昔は東京に住んでいた。"
+      },
+      {
+        "english": "It used to take 20 minutes.",
+        "japanese": "昔は 20 分かかっていた。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 9
+  },
+  {
+    "id": "basic-13",
+    "number": 13,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is used to 名詞 / 動名詞",
+    "meaning": "X は名詞 / 動名詞に慣れている",
+    "examples": [
+      {
+        "english": "I'm already used to speaking English.",
+        "japanese": "もう英語を話すのに慣れてるよ。"
+      },
+      {
+        "english": "I used to be very nervous, but I'm already used to it.",
+        "japanese": "昔はめっちゃ不安だったけどもう慣れてるよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 10
+  },
+  {
+    "id": "basic-14",
+    "number": 14,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "X is not as 形容詞 as I expected / thought",
+    "meaning": "X は思ったほど形容詞じゃない",
+    "examples": [
+      {
+        "english": "The food was not as delicious as I expected.",
+        "japanese": "期待してたほど美味しくなかった。"
+      },
+      {
+        "english": "He didn't speak English as fluently as I expected.",
+        "japanese": "期待してたほど彼は英語を流暢に話さなかった。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 10
+  },
+  {
+    "id": "basic-15",
+    "number": 15,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "spend 時間 doing",
+    "meaning": "〜することに時間を費やす",
+    "examples": [
+      {
+        "english": "I usually spend about 8 hours studying English.",
+        "japanese": "普段、8 時間くらい英語の勉強してる。"
+      },
+      {
+        "english": "I spent 2 hours practicing the guitar yesterday.",
+        "japanese": "昨日は 2 時間ギターの練習をした。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 11
+  },
+  {
+    "id": "basic-16",
+    "number": 16,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "feel like doing",
+    "meaning": "〜したい気分だ",
+    "examples": [
+      {
+        "english": "I feel like working out today.",
+        "japanese": "今日はエクササイズしたい気分だ。"
+      },
+      {
+        "english": "I don't feel like doing anything today.",
+        "japanese": "今日は何もしたくない気分だ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 11
+  },
+  {
+    "id": "basic-17",
+    "number": 17,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "as soon as 文",
+    "meaning": "文するとすぐに文",
+    "examples": [
+      {
+        "english": "Give me a call as soon as you get there.",
+        "japanese": "ここに着いたらすぐに電話して。"
+      },
+      {
+        "english": "I'll send it to you as soon as I finish the meeting.",
+        "japanese": "ミーティングが終わったらすぐに送るよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 12
+  },
+  {
+    "id": "basic-18",
+    "number": 18,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "I don't know if 文",
+    "meaning": "文かどうかわからない",
+    "examples": [
+      {
+        "english": "I don't know if he's coming.",
+        "japanese": "彼が来るかどうかわからない。"
+      },
+      {
+        "english": "I don't know if they have Wi-Fi.",
+        "japanese": "あの店に Wi-Fi があるかどうかわからない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 12
+  },
+  {
+    "id": "basic-19",
+    "number": 19,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "I wonder if 文",
+    "meaning": "文かどうかなと思う",
+    "examples": [
+      {
+        "english": "I wonder if he's coming.",
+        "japanese": "彼は来るのかな。"
+      },
+      {
+        "english": "I wonder if they have Wi-Fi.",
+        "japanese": "あの店に Wi-Fi あるのかな。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 13
+  },
+  {
+    "id": "basic-20",
+    "number": 20,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "It's been 時間 since 文",
+    "meaning": "文してから時間が経っている",
+    "examples": [
+      {
+        "english": "It's been 2 years since I last saw him.",
+        "japanese": "彼に最後に会ってから 2 年になる。"
+      },
+      {
+        "english": "It's been a while.",
+        "japanese": "久しぶりだね。"
+      },
+      {
+        "english": "It's been a long time.",
+        "japanese": "久しぶりだね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 13
+  },
+  {
+    "id": "basic-21",
+    "number": 21,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "It takes 時間 to do",
+    "meaning": "〜するのに時間がかかる",
+    "examples": [
+      {
+        "english": "It takes about 40 minutes to get there.",
+        "japanese": "あそこに着くのに大体 40 分かかる。"
+      },
+      {
+        "english": "How long did it take?",
+        "japanese": "どのくらい時間かかったの?"
+      },
+      {
+        "english": "It took about 40 minutes.",
+        "japanese": "大体 40 分くらいかかった。"
+      },
+      {
+        "english": "It took me about 40 minutes.",
+        "japanese": "私がそれをやるのには大体 40 分くらいかかった。"
+      },
+      {
+        "english": "It took him about 40 minutes.",
+        "japanese": "彼がそれをやるのには大体 40 分くらいかかったよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 14
+  },
+  {
+    "id": "basic-22",
+    "number": 22,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "How about + 文",
+    "meaning": "文はどう?",
+    "examples": [
+      {
+        "english": "How about you do it?",
+        "japanese": "あなたがそれをやるのはどう?"
+      },
+      {
+        "english": "How about we host a party?",
+        "japanese": "パーティーを一緒に主催するのはどう?"
+      },
+      {
+        "english": "How about we do it together?",
+        "japanese": "一緒にやるのはどう?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 14
+  },
+  {
+    "id": "basic-23",
+    "number": 23,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "have X do",
+    "meaning": "X に〜(どうにかして)させる",
+    "examples": [
+      {
+        "english": "I'll have Taka do it.",
+        "japanese": "それはたかにやってもらうよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 15
+  },
+  {
+    "id": "basic-24",
+    "number": 24,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "get X to do",
+    "meaning": "X に〜(どうにかして)させる",
+    "examples": [
+      {
+        "english": "I'll get Taka to do it.",
+        "japanese": "それはたかにやってもらうよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 15
+  },
+  {
+    "id": "basic-25",
+    "number": 25,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "make X do",
+    "meaning": "X に〜(強制的に)させる",
+    "examples": [
+      {
+        "english": "I'll make Taka do it.",
+        "japanese": "それはたかにやらせるよ。"
+      },
+      {
+        "english": "It made me think.",
+        "japanese": "考えさせられた。"
+      },
+      {
+        "english": "What made you come to Japan?",
+        "japanese": "なぜ日本に来たんですか?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 16
+  },
+  {
+    "id": "basic-26",
+    "number": 26,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "let X do",
+    "meaning": "X に〜させてあげる",
+    "examples": [
+      {
+        "english": "I'll let him do it.",
+        "japanese": "それは彼にやらせてあげるよ。"
+      },
+      {
+        "english": "I'll let you know when I figure out.",
+        "japanese": "わかったら教えてあげるね。"
+      },
+      {
+        "english": "Let me help you.",
+        "japanese": "手伝わせて。"
+      },
+      {
+        "english": "Let me do it for you.",
+        "japanese": "私にやらせて。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 16
+  },
+  {
+    "id": "basic-27",
+    "number": 27,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "make X 形容詞",
+    "meaning": "X を形容詞にさせる",
+    "examples": [
+      {
+        "english": "I want to make him happy.",
+        "japanese": "彼を喜ばせたい。"
+      },
+      {
+        "english": "I want to make the world a better place.",
+        "japanese": "世界をもっと良くしたい。"
+      },
+      {
+        "english": "That makes my life easier.",
+        "japanese": "人生が楽になるわ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 17
+  },
+  {
+    "id": "basic-28",
+    "number": 28,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "see X doing",
+    "meaning": "X が〜しているのを見る",
+    "examples": [
+      {
+        "english": "I saw him singing yesterday.",
+        "japanese": "昨日、彼が歌っているのを見た。"
+      },
+      {
+        "english": "I saw a lot of people walking in the city.",
+        "japanese": "街で多くの人が歩いているのを見た。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 17
+  },
+  {
+    "id": "basic-29",
+    "number": 29,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "hear X doing",
+    "meaning": "X が〜しているのを聞く",
+    "examples": [
+      {
+        "english": "I heard so many people talking about it.",
+        "japanese": "多くの人がそのことについて話しているのを聞いた。"
+      },
+      {
+        "english": "I've never heard him speaking English.",
+        "japanese": "彼が英語を話しているのを聞いたことがない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 18
+  },
+  {
+    "id": "basic-30",
+    "number": 30,
+    "category": "basic",
+    "categoryLabel": "初級構文",
+    "expression": "what 主語 動詞",
+    "meaning": "主語が動詞すること",
+    "examples": [
+      {
+        "english": "What I like about it is this.",
+        "japanese": "私が好きなのはこれです。"
+      },
+      {
+        "english": "That's not what I mean.",
+        "japanese": "そういう意味じゃないよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 18
+  },
+  {
+    "id": "advanced-01",
+    "number": 1,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "you know how 文",
+    "meaning": "ほら、文じゃん?",
+    "examples": [
+      {
+        "english": "You know how he seems really happy?",
+        "japanese": "ほら、彼っていつも幸せそうじゃん?"
+      },
+      {
+        "english": "You know how I'm always complaining about this kind of stuff?",
+        "japanese": "ほら、私っていつもこういうことに関して文句言ってるじゃん?"
+      },
+      {
+        "english": "You know how I've been looking for a new jacket?",
+        "japanese": "ほら、私ずっと新しいジャケットを探してるって言ってたじゃん?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 20
+  },
+  {
+    "id": "advanced-02",
+    "number": 2,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "If you could do, that would be 形容詞",
+    "meaning": "もし〜してくれたら、形容詞だ",
+    "examples": [
+      {
+        "english": "If you could finish writing that report by the end of today, that would be great.",
+        "japanese": "もしそのレポートを今日中に書き終えてくれたら、最高だよ。"
+      },
+      {
+        "english": "If you could come, that would be awesome.",
+        "japanese": "もし来れるなら、めちゃくちゃ嬉しい。"
+      },
+      {
+        "english": "If you could do that, that would be impressive.",
+        "japanese": "もしそれできるならめちゃくちゃすごいよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 21
+  },
+  {
+    "id": "advanced-03",
+    "number": 3,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "for the first time in 時間",
+    "meaning": "時間ぶりに",
+    "examples": [
+      {
+        "english": "I played tennis for the first time in 5 years.",
+        "japanese": "5 年ぶりにテニスをした。"
+      },
+      {
+        "english": "I came to Osaka for the first time in 10 years.",
+        "japanese": "10 年ぶりに大阪に来た。"
+      },
+      {
+        "english": "I bought a new jacket for the first time in ages.",
+        "japanese": "久しぶりに新しいジャケットを買った。"
+      },
+      {
+        "english": "I came here for the first time in ages.",
+        "japanese": "久しぶりにここに来た。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 22
+  },
+  {
+    "id": "advanced-04",
+    "number": 4,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "what if 文",
+    "meaning": "もし文ならどうする?",
+    "examples": [
+      {
+        "english": "What if it rains tomorrow?",
+        "japanese": "明日、雨降ったらどうする?"
+      },
+      {
+        "english": "What if they don't like it?",
+        "japanese": "もし好きじゃなかったらどうする?"
+      },
+      {
+        "english": "What if the profit was zero?",
+        "japanese": "もし利益がゼロだったらどうする?"
+      },
+      {
+        "english": "What if the profit is zero?",
+        "japanese": "もし利益がゼロだったらどうする?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 23
+  },
+  {
+    "id": "advanced-05",
+    "number": 5,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "That's why 文",
+    "meaning": "だから文だ。",
+    "examples": [
+      {
+        "english": "That's why I don't like it.",
+        "japanese": "だからそれ嫌いなんだよ。"
+      },
+      {
+        "english": "That's why I really hate the cafe.",
+        "japanese": "だからそのカフェめっちゃ嫌いなんだよ。"
+      },
+      {
+        "english": "That's why it's very important to study English now.",
+        "japanese": "だから今英語の勉強をするのはすごく大事なんだよ。"
+      },
+      {
+        "english": "The world has been more and more globalized, and more and more people are actually learning English. And eventually, you're going to get to the phase where you've got to communicate with people in English. That's why it's important to study it now.",
+        "japanese": "世界はますますグローバル化していて、英語を学ぶ人がどんどん増えているよね。いずれは、あなたも英語でコミュニケーションを取らなければいけなくなる段階がくるはず。だから今英語を勉強することは大事なんだよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 24
+  },
+  {
+    "id": "advanced-06",
+    "number": 6,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "It feels like 文",
+    "meaning": "文な気がする。",
+    "examples": [
+      {
+        "english": "It feels like something's going to happen.",
+        "japanese": "何か起こりそうな気がする。"
+      },
+      {
+        "english": "It feels like it's going to rain.",
+        "japanese": "雨が降りそうな気がする。"
+      },
+      {
+        "english": "It feels like something is off about this presentation.",
+        "japanese": "このプレゼン、なんか変な気がする。"
+      },
+      {
+        "english": "It feels like he's been just slacking off.",
+        "japanese": "彼、最近ダラダラしてる気がする。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 25
+  },
+  {
+    "id": "advanced-07",
+    "number": 7,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "There's no way 文",
+    "meaning": "文なんてありえない。",
+    "examples": [
+      {
+        "english": "There's no way she's 50. She looks so young.",
+        "japanese": "彼女が 50 歳なんてありえない。めちゃくちゃ若く見える。"
+      },
+      {
+        "english": "There's no way he said that.",
+        "japanese": "彼がそんなこと言ったなんてありえない。"
+      },
+      {
+        "english": "There's no way it's already 2 am. Crazy.",
+        "japanese": "もう 2 時なんてありえない。やばい。"
+      },
+      {
+        "english": "There's no way it's already 2 am. It's crazy. Oh my god. We've been working so hard.",
+        "japanese": "もう 2 時なんてありえない。やばい。めっちゃ仕事したね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 26
+  },
+  {
+    "id": "advanced-08",
+    "number": 8,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "I'm not sure if 文",
+    "meaning": "文かどうか分からない",
+    "examples": [
+      {
+        "english": "I'm not sure if he is coming.",
+        "japanese": "彼が来るかどうか分からない。"
+      },
+      {
+        "english": "He was telling me that he's been super busy these days. So I'm not sure if he's coming today.",
+        "japanese": "彼、最近めちゃくちゃ忙しいって言ってたから、今日来るかどうか分からない。"
+      },
+      {
+        "english": "I'm not sure if it's true.",
+        "japanese": "それが本当かどうか分からない。"
+      },
+      {
+        "english": "Sorry, I'm not sure if I can make it.",
+        "japanese": "ごめん、間に合うかどうか分からない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 27
+  },
+  {
+    "id": "advanced-09",
+    "number": 9,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "What's the point of doing",
+    "meaning": "〜することに何の意味があるの?",
+    "examples": [
+      {
+        "english": "What's the point of doing that?",
+        "japanese": "それやって何の意味があるの?"
+      },
+      {
+        "english": "What's the point of working out?",
+        "japanese": "筋トレすることに何の意味があるの?"
+      },
+      {
+        "english": "What's the point of studying English?",
+        "japanese": "英語の勉強することに何の意味があるの?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 28
+  },
+  {
+    "id": "advanced-10",
+    "number": 10,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "It's 形容詞 how 文",
+    "meaning": "文は形容詞だ",
+    "examples": [
+      {
+        "english": "It's interesting how life changes so quickly.",
+        "japanese": "人生ってこんなに色々と変わっていくの面白いよね。"
+      },
+      {
+        "english": "It's strange how we never met before.",
+        "japanese": "私たち一回も会わなかったなんてなんか変な感じだね。"
+      },
+      {
+        "english": "Isn't it interesting how we haven't done this before?",
+        "japanese": "これ一緒にやったことないって面白くない?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 28
+  },
+  {
+    "id": "advanced-11",
+    "number": 11,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "be supposed to do",
+    "meaning": "本来であれば〜することになっている",
+    "examples": [
+      {
+        "english": "I'm supposed to be on a diet.",
+        "japanese": "ダイエットしてるはずなんだけどな。"
+      },
+      {
+        "english": "I'm supposed to be on a diet, but these cakes are amazing.",
+        "japanese": "ダイエットしてるはずなんだけど、このケーキ美味しすぎる。"
+      },
+      {
+        "english": "What am I supposed to be doing here?",
+        "japanese": "私は何をすべきでしょうか?"
+      },
+      {
+        "english": "I'm supposed to be on a diet, but these are just amazing. Oh my god. I can't stop eating them.",
+        "japanese": "ダイエットしてるはずなんだけど、これ美味しすぎる。やばい。止まらない。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 29
+  },
+  {
+    "id": "advanced-12",
+    "number": 12,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "The reason I do sth is...",
+    "meaning": "〜するのは〜だからだ",
+    "examples": [
+      {
+        "english": "The reason I study English is to be able to communicate with people from all different backgrounds.",
+        "japanese": "色々なバックグラウンドの人とコミュニケーションを取りたいから英語の勉強をしている。"
+      },
+      {
+        "english": "The reason I like her is because she's very intelligent.",
+        "japanese": "彼女のことが好きなのは、めちゃくちゃ知的だからなんだよね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 30
+  },
+  {
+    "id": "advanced-13",
+    "number": 13,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "the more 文 the more 文",
+    "meaning": "文すればするほど文になる",
+    "examples": [
+      {
+        "english": "The more you listen, the more you learn.",
+        "japanese": "聞けば聞くほど、勉強になる。"
+      },
+      {
+        "english": "The more you listen, The more you learn.",
+        "japanese": "聞けば聞くほど、勉強になる。"
+      },
+      {
+        "english": "The more you practice, the better you get.",
+        "japanese": "練習すればするほど、上手くなる。"
+      },
+      {
+        "english": "The more you learn, the better you get.",
+        "japanese": "学べば学ぶほど、上手くなる。"
+      },
+      {
+        "english": "The more, the better.",
+        "japanese": "多ければ多いほどいい。"
+      },
+      {
+        "english": "The more, the merrier.",
+        "japanese": "大勢の方が楽しい。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 31
+  },
+  {
+    "id": "advanced-14",
+    "number": 14,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "It's just that 文",
+    "meaning": "ただ文なだけ",
+    "examples": [
+      {
+        "english": "- Hey, you didn't go to the gym this morning? What happened? - Oh, it's just that I'm tired.",
+        "japanese": "- 今朝ジム行かなかったの? なんかあった? - あぁ、ただ疲れてるだけだよ。"
+      },
+      {
+        "english": "- Hey, why didn't you come to the party yesterday? - It's just that I was busy.",
+        "japanese": "- 昨日なんでパーティー来なかったの? - ただ忙しかっただけだよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 32
+  },
+  {
+    "id": "advanced-15",
+    "number": 15,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "I'll probably do",
+    "meaning": "きっと〜するだろう",
+    "examples": [
+      {
+        "english": "I'll probably be able to make it.",
+        "japanese": "きっと間に合うと思う。"
+      },
+      {
+        "english": "I'll probably just stay at home and chill.",
+        "japanese": "多分家でゆっくりする。"
+      },
+      {
+        "english": "I'll probably just go to the supermarket but that's it. Nothing else planned.",
+        "japanese": "多分ただスーパーに行くくらいで他には特に予定ないよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 32
+  },
+  {
+    "id": "advanced-16",
+    "number": 16,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "it's not that 文",
+    "meaning": "文という訳ではない",
+    "examples": [
+      {
+        "english": "It's not that I hate studying.",
+        "japanese": "勉強が嫌いという訳ではない。"
+      },
+      {
+        "english": "It's not that I hate studying. It's just that I didn't want to study today.",
+        "japanese": "勉強が嫌いという訳ではないんだよ。今日はただ勉強したくなかっただけ。"
+      },
+      {
+        "english": "It's not that I don't drink coffee. I just wanted to drink tea today.",
+        "japanese": "コーヒーを飲まない訳ではないんだけど今日はお茶を飲みたかったんだよね。"
+      },
+      {
+        "english": "It's not that I'm allergic to it. I just don't like the smell of it.",
+        "japanese": "アレルギーがある訳ではないんだけど匂いが好きじゃないんだよね。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 33
+  },
+  {
+    "id": "advanced-17",
+    "number": 17,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "without doing",
+    "meaning": "〜することなしで",
+    "examples": [
+      {
+        "english": "He's funny without even trying.",
+        "japanese": "彼って笑わせようとしてなくても面白いよね。"
+      },
+      {
+        "english": "I can't start my day without drinking coffee.",
+        "japanese": "コーヒーを飲まずに 1 日を始めるなんて無理だよ。"
+      },
+      {
+        "english": "I can't start my day without drinking coffee. My brain won't function without coffee.",
+        "japanese": "コーヒーを飲まずに 1 日を始めるなんて無理だよ。コーヒーなしでは脳が機能しない。"
+      },
+      {
+        "english": "He left without saying goodbye.",
+        "japanese": "さよならを言わずに彼は行ってしまった。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 34
+  },
+  {
+    "id": "advanced-18",
+    "number": 18,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "It's said that 文",
+    "meaning": "文と言われる",
+    "examples": [
+      {
+        "english": "It's said that everything happens for a reason.",
+        "japanese": "全てのことは理由があって起きると言われている。"
+      },
+      {
+        "english": "It's said that Atsueigo is the best channel on YouTube.",
+        "japanese": "Atsueigo が YouTube 上で一番良いチャンネルだと言われている。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 35
+  },
+  {
+    "id": "advanced-19",
+    "number": 19,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "If I were to do, I would do",
+    "meaning": "仮に〜するとしたら、〜するだろう",
+    "examples": [
+      {
+        "english": "If I were to travel this year, I would go to Paris.",
+        "japanese": "もし今年旅行するとしたら、パリに行くだろうな。"
+      },
+      {
+        "english": "If I were to study abroad, it would be probably about two years.",
+        "japanese": "もし留学するとしたら、きっと 2 年間くらいになると思う。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 35
+  },
+  {
+    "id": "advanced-20",
+    "number": 20,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "It's such a 形容詞名詞 that 文",
+    "meaning": "ものすごく形容詞な名詞だったので文だった",
+    "examples": [
+      {
+        "english": "It was such a hot day that we couldn't go outside.",
+        "japanese": "めちゃくちゃ暑い日だったから外出することができなかった。"
+      },
+      {
+        "english": "It was such a cozy cafe that I could spend hours there.",
+        "japanese": "めちゃくちゃ居心地良いカフェだから何時間でも過ごせるよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 36
+  },
+  {
+    "id": "advanced-21",
+    "number": 21,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "I'm at the stage where 文",
+    "meaning": "文の段階にある",
+    "examples": [
+      {
+        "english": "I'm at the stage where I need to think about my life more carefully.",
+        "japanese": "もう少し自分の人生について気をつけて考えないといけない段階にある。"
+      },
+      {
+        "english": "I'm at the stage where I need to accumulate more experience.",
+        "japanese": "もっと経験を積まないといけない段階にある。"
+      },
+      {
+        "english": "I'm at the stage where I need to study English more seriously.",
+        "japanese": "もっと真面目に英語を学ばないといけない段階にある。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 36
+  },
+  {
+    "id": "advanced-22",
+    "number": 22,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "X is worth doing",
+    "meaning": "〜は〜する価値がある",
+    "examples": [
+      {
+        "english": "This book is worth reading.",
+        "japanese": "この本は読む価値がある。"
+      },
+      {
+        "english": "This video is worth watching.",
+        "japanese": "この動画は観る価値がある。"
+      },
+      {
+        "english": "It's worth watching this video.",
+        "japanese": "この動画は観る価値がある。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 37
+  },
+  {
+    "id": "advanced-23",
+    "number": 23,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "What I like about X is Y",
+    "meaning": "X に関して好きなところは Y だ",
+    "examples": [
+      {
+        "english": "What I like about Japan is its beautiful culture.",
+        "japanese": "日本の好きなところは美しい文化だよ。"
+      },
+      {
+        "english": "What I like about this channel is that I can learn a lot of things.",
+        "japanese": "このチャンネルの好きなところは色々なことについて学べるところだよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 37
+  },
+  {
+    "id": "advanced-24",
+    "number": 24,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "X is like, 文",
+    "meaning": "文と言った、思った",
+    "examples": [
+      {
+        "english": "He was like, \"Why do you complain so much?\"",
+        "japanese": "「なんでそんなに文句ばっかり言うの?」って彼は言ってたよ。"
+      },
+      {
+        "english": "I was like, \"Why wouldn't he shut his mouth?\"",
+        "japanese": "「なんで彼は口を閉じないんだよ」って感じだった。"
+      },
+      {
+        "english": "He was asking me so many questions so I was like, \"Just do whatever you want.\"",
+        "japanese": "彼、めちゃくちゃ質問してきたから「もう好きなことやれば?」って感じだった。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 38
+  },
+  {
+    "id": "advanced-25",
+    "number": 25,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "in which case 文",
+    "meaning": "もしそうなったら文",
+    "examples": [
+      {
+        "english": "I might be late tomorrow, in which case I'll send you a message.",
+        "japanese": "明日遅れるかもしれないからその場合、連絡するね。"
+      },
+      {
+        "english": "He might be on vacation, in which case just contact John.",
+        "japanese": "彼は休暇中かもしれないからもしそうなったらジョンに連絡して。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 38
+  },
+  {
+    "id": "advanced-26",
+    "number": 26,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "when it comes to 名詞 / 動名詞",
+    "meaning": "名詞 / 動名詞のことになると",
+    "examples": [
+      {
+        "english": "When it comes to coffee, he's an expert.",
+        "japanese": "コーヒーのことになると彼はエキスパートだよ。"
+      },
+      {
+        "english": "When it comes to traffic in this city, it's a nightmare.",
+        "japanese": "この街の交通量に関して言えば、悪夢だよ。"
+      },
+      {
+        "english": "When it comes to studying, consistency is the key.",
+        "japanese": "勉強に関して言えば、一貫してやり続けることが重要だよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 39
+  },
+  {
+    "id": "advanced-27",
+    "number": 27,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "with 名詞 状態",
+    "meaning": "名詞が状態の状態で",
+    "examples": [
+      {
+        "english": "I can even do this with my eyes closed.",
+        "japanese": "目閉じてでもこれできるよ。"
+      },
+      {
+        "english": "My dog was sleeping with his tongue hanging out.",
+        "japanese": "私の犬は舌を出した状態で寝てた。"
+      },
+      {
+        "english": "It's so hard to type with my hands shaking.",
+        "japanese": "両手が震えた状態でタイピングするのは難しい。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 39
+  },
+  {
+    "id": "advanced-28",
+    "number": 28,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "動詞 how 形容詞 名詞 is",
+    "meaning": "名詞がどれだけ形容詞なのか動詞",
+    "examples": [
+      {
+        "english": "Look how beautiful this city is.",
+        "japanese": "この街、どれだけ美しいか見てよ。"
+      },
+      {
+        "english": "Look how beautiful she is.",
+        "japanese": "彼女、どれだけ美しいか見てよ。"
+      },
+      {
+        "english": "Do you remember how crazy the party was?",
+        "japanese": "あのパーティーどれだけやばかったか覚えてる?"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 40
+  },
+  {
+    "id": "advanced-29",
+    "number": 29,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "get to do",
+    "meaning": "〜する機会がある、〜することができる",
+    "examples": [
+      {
+        "english": "This morning, I got to drive a new car.",
+        "japanese": "今朝、新車を運転できた。"
+      },
+      {
+        "english": "Because of work, I don't get to work out as much as I used to.",
+        "japanese": "仕事のせいで、昔ほど筋トレできてない。"
+      },
+      {
+        "english": "Yesterday, I got to talk with a famous actor.",
+        "japanese": "昨日、あの有名な俳優と話す機会があったんだよ。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 40
+  },
+  {
+    "id": "advanced-30",
+    "number": 30,
+    "category": "advanced",
+    "categoryLabel": "中・上級構文",
+    "expression": "be going to have to do",
+    "meaning": "残念ながら〜しないといけない",
+    "examples": [
+      {
+        "english": "Unfortunately, you're going to have to leave now.",
+        "japanese": "残念ながら、もう出てもらわないといけない。"
+      },
+      {
+        "english": "Yeah, probably, you're going to have to pay for it.",
+        "japanese": "きっとそれ払わないといけないだろうね。"
+      },
+      {
+        "english": "Probably, I'm going to have to knuckle down and study.",
+        "japanese": "そろそろ本気出して勉強しないといけないんだろうな。"
+      }
+    ],
+    "explanation": "",
+    "sourcePage": 41
+  },
+  {
+    "id": "part1-01",
+    "number": 1,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "It's 形容詞 how 文",
+    "meaning": "文は形容詞だ",
+    "examples": [
+      {
+        "english": "It's interesting how you said that.",
+        "japanese": "そんなこと言うなんて面白いね。"
+      },
+      {
+        "english": "It's amazing how you did that.",
+        "japanese": "そんなことしたなんてすごいね。"
+      },
+      {
+        "english": "It's amazing how we can work on this project.",
+        "japanese": "このプロジェクトに取り組めるなんてすごいね。"
+      },
+      {
+        "english": "It's strange how time flies when we're having fun.",
+        "japanese": "楽しんでる時、時間過ぎるのがめっちゃ早く感じるのって変だよね。"
+      }
+    ],
+    "explanation": "ある状況や事実についての驚きや強調を表現する時に使います。how が that 節と同じ意味で使われているのが面白いですね。",
+    "sourcePage": 43
+  },
+  {
+    "id": "part1-02",
+    "number": 2,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "at the end of the day",
+    "meaning": "結局は",
+    "examples": [
+      {
+        "english": "At the end of the day, this is not that important.",
+        "japanese": "結局のところ、これってそんなに重要じゃないよね。"
+      },
+      {
+        "english": "At the end of the day, what I'm saying doesn't really matter because the choice is yours.",
+        "japanese": "結局のところ、選ぶのは君なんだから私の言ってることなんてどうでもいいんだよ。"
+      },
+      {
+        "english": "At the end of the day, you don't have to think about it because you're not going to do it.",
+        "japanese": "結局やらないんだから考えなくていいよ。"
+      }
+    ],
+    "explanation": "直訳すると「その日の最後に」となり、そこから最終的に、結局のところという意味で使われます。",
+    "sourcePage": 44
+  },
+  {
+    "id": "part1-03",
+    "number": 3,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "if that makes sense",
+    "meaning": "言ってること分かる?",
+    "examples": [
+      {
+        "english": "Well it sounded a little bit British, but at the same time, maybe a bit Australian, if that makes sense.",
+        "japanese": "イギリス英語とオーストラリア英語が混ざった感じだったとは思うんだけど、言ってること分かる?"
+      },
+      {
+        "english": "I want something cold, but at the same time, you know, maybe warmish, if that makes sense.",
+        "japanese": "何か冷たいけど、温かいみたいなものが欲しいんだよな。言ってること分かる?"
+      }
+    ],
+    "explanation": "直訳すると「もしそれが理解されるなら」となり、自分の言葉が相手に理解されているかを確認する時によく使います。",
+    "sourcePage": 45
+  },
+  {
+    "id": "part1-04",
+    "number": 4,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "if you think about it",
+    "meaning": "考え方によれば",
+    "examples": [
+      {
+        "english": "We're just tiny specks in the universe if you think about it.",
+        "japanese": "考え方によれば、私たちなんて宇宙のこれっぽっちの存在にしか過ぎないよね。"
+      },
+      {
+        "english": "It's crazy how we can communicate like this if you think about it.",
+        "japanese": "考えてみると、こんな風にやり取りできるのってすごいよね。"
+      }
+    ],
+    "explanation": "ある事実や意見を深く考えると、という意味で使います。「よくよく考えると〜だ」のように、気づきがある時に使える表現です。",
+    "sourcePage": 46
+  },
+  {
+    "id": "part1-05",
+    "number": 5,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "you know what I mean?",
+    "meaning": "言ってること分かる?",
+    "examples": [
+      {
+        "english": "I think YouTube is getting more and more competitive, you know what I mean?",
+        "japanese": "YouTube って競争がますます激しくなってるよね。言ってること分かる?"
+      },
+      {
+        "english": "At the end of the day, whether or not you should study English is completely up to you. You know what I mean?",
+        "japanese": "結局のところ、勉強するかしないかは完全に君次第だよ。言ってること分かる?"
+      }
+    ],
+    "explanation": "「what + 主語 + 動詞」は「主語が動詞すること」という意味になります。ゆえに、「私が意味することがわかる?」という意味になり、相手が自分の言っていることを理解しているかを確認する時に使います。",
+    "sourcePage": 47
+  },
+  {
+    "id": "part1-06",
+    "number": 6,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "or so",
+    "meaning": "〜とかその辺、大体",
+    "examples": [
+      {
+        "english": "I think it's going to start in 10 minutes or so.",
+        "japanese": "大体あと 10 分くらいで始まると思う。"
+      },
+      {
+        "english": "It's 20 dollars or so.",
+        "japanese": "大体 20 ドルとかその辺だよ。"
+      },
+      {
+        "english": "It's going to cost probably 20 dollars or so.",
+        "japanese": "大体 20 ドルとかそのくらいかかるよ。"
+      }
+    ],
+    "explanation": "期間や時間、金額などに対して、「約、大体」という意味で使われます。",
+    "sourcePage": 48
+  },
+  {
+    "id": "part1-07",
+    "number": 7,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "and stuff",
+    "meaning": "〜とか",
+    "examples": [
+      {
+        "english": "We've got to do editing and stuff.",
+        "japanese": "編集とかしないといけないじゃん。"
+      },
+      {
+        "english": "We've got to do editing and stuff. I think it's going to cost probably 20 dollars or so.",
+        "japanese": "編集とかしないといけないじゃん。20 ドルとかそのくらいかかるよ。"
+      }
+    ],
+    "explanation": "stuff はぼんやりと「もの」を表し、ゆえに本表現は「など」という意味で使われます。",
+    "sourcePage": 49
+  },
+  {
+    "id": "part1-08",
+    "number": 8,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "something like that",
+    "meaning": "〜とかなんとか",
+    "examples": [
+      {
+        "english": "He said he was going to study English or something like that.",
+        "japanese": "英語を勉強するとかなんとか言ってたよ。"
+      },
+      {
+        "english": "I think he's learning Spanish or something like that.",
+        "japanese": "彼はスペイン語かなんかを勉強してると思う。"
+      },
+      {
+        "english": "I think he's learning Spanish or something like that, if that makes sense.",
+        "japanese": "彼はスペイン語かなんかを勉強してると思う。言ってること分かる?"
+      }
+    ],
+    "explanation": "like には「〜のような」という意味があり、ゆえに本表現は「そのようなもの」という意味になります。or something like that のように、or とあわせて使われることが多いです。",
+    "sourcePage": 50
+  },
+  {
+    "id": "part1-09",
+    "number": 9,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "pretty much",
+    "meaning": "ほぼ",
+    "examples": [
+      {
+        "english": "This is pretty much done (completed).",
+        "japanese": "これはほぼ終わってるよ。"
+      },
+      {
+        "english": "This is pretty much the same as that one.",
+        "japanese": "あれとほぼ同じだね。"
+      }
+    ],
+    "explanation": "「ほとんど、大体」という意味で使います。almost と同じ意味ですね。",
+    "sourcePage": 51
+  },
+  {
+    "id": "part1-10",
+    "number": 10,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "or not really?",
+    "meaning": "ちょっと違う?",
+    "examples": [
+      {
+        "english": "Do you like this kind of music, or not really?",
+        "japanese": "こういう感じの音楽好き? それともちょっと違う?"
+      },
+      {
+        "english": "Is this what you're looking for, or not really?",
+        "japanese": "これ君が探してるもの? それともちょっと違う?"
+      },
+      {
+        "english": "Is this a kind of thing that you wanted to do, or not really?",
+        "japanese": "これ君がしたいと思ってた感じのこと? それともちょっと違う?"
+      }
+    ],
+    "explanation": "相手に質問をした後に、「それともそれはちょっと違うかな?」と付け加える時に使います。",
+    "sourcePage": 52
+  },
+  {
+    "id": "part1-11",
+    "number": 11,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "I have a feeling",
+    "meaning": "〜という気がする",
+    "examples": [
+      {
+        "english": "I have a feeling that it's going to be a great event.",
+        "japanese": "めっちゃ良いイベントになる気がする。"
+      },
+      {
+        "english": "I have a feeling that we're going to win.",
+        "japanese": "勝つ気がする。"
+      },
+      {
+        "english": "I have a feeling that there's more to it.",
+        "japanese": "もっとなんかあるんじゃないかという気がする。"
+      },
+      {
+        "english": "Do you have a feeling that we're going to win, or not really?",
+        "japanese": "私たちが勝つと思う? それともそうでもない?"
+      }
+    ],
+    "explanation": "〜という感じがする、と自分の直感や予感を表現する時に使います。I have a hunch that という形も同様によく使われます。",
+    "sourcePage": 53
+  },
+  {
+    "id": "part1-12",
+    "number": 12,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "I know, right?",
+    "meaning": "ほんとそれ",
+    "examples": [
+      {
+        "english": "- Oh my god, this is delicious. - I know, right?",
+        "japanese": "- やばい、これ美味しすぎる。- ほんとそれ。"
+      },
+      {
+        "english": "- Oh my god, she is gorgeous. - I know, right?",
+        "japanese": "- あの人めっちゃ綺麗だね。- ほんとそれ。"
+      },
+      {
+        "english": "- Oh my god, he did a great job. - I know, right?",
+        "japanese": "- 彼めっちゃ良い仕事したね。- ほんとそれ。"
+      },
+      {
+        "english": "- This is beautiful. - I know, right?",
+        "japanese": "- これ綺麗だね。- ほんとそれ。"
+      }
+    ],
+    "explanation": "相手の意見に強く同意する時に使います。「ほんとそれ!」という感覚に近いですね。",
+    "sourcePage": 54
+  },
+  {
+    "id": "part1-13",
+    "number": 13,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "kind of thing",
+    "meaning": "〜みたいなもの",
+    "examples": [
+      {
+        "english": "I was trying to create something like my original anime kind of thing.",
+        "japanese": "オリジナルのアニメみたいなものを作ろうとしてたんだよね。"
+      },
+      {
+        "english": "This is a flip phone kind of thing but a bit different.",
+        "japanese": "この携帯はガラケーみたいなものなんだけどちょっと違うんだよね。"
+      },
+      {
+        "english": "I'm trying to create a YouTube channel kind of thing but on a different platform.",
+        "japanese": "他のプラットフォームなんだけど YouTube チャンネルみたいなものを作ろうとしてるんだよね。"
+      }
+    ],
+    "explanation": "自分が使う名詞を少し曖昧にしたい時に使われます。同じ意味で a sth sort of thing と言うこともできます。",
+    "sourcePage": 55
+  },
+  {
+    "id": "part1-14",
+    "number": 14,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "in which case",
+    "meaning": "その場合",
+    "examples": [
+      {
+        "english": "The data might not be available tomorrow, in which case, I've got to get you to do it.",
+        "japanese": "明日データが使えないかもしれないからその場合、君にやってもらわないといけない。"
+      },
+      {
+        "english": "The museum might be closed tomorrow, in which case, we can go to the cafe over there.",
+        "japanese": "明日美術館が閉まってるかもしれないからその場合、あそこのカフェに行こう。"
+      }
+    ],
+    "explanation": "その場合、という意味で使われ、その直前の自分の発言に対して使われる表現です。",
+    "sourcePage": 56
+  },
+  {
+    "id": "part1-15",
+    "number": 15,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "even if",
+    "meaning": "たとえ〜だったとしても",
+    "examples": [
+      {
+        "english": "Even if it rains, we've got to do it.",
+        "japanese": "たとえ雨でも、やらないといけない。"
+      },
+      {
+        "english": "I have a feeling that even if it rains, he's going to try to do it.",
+        "japanese": "たとえ雨でも、彼はやろうとする気がする。"
+      },
+      {
+        "english": "I think he was pretty much saying that even if it rains, we've got to do it.",
+        "japanese": "彼はたとえ雨でもやらないといけないということを大体言っていた。"
+      }
+    ],
+    "explanation": "「たとえ〜でも」という意味で、ある条件下であっても何かが起こることを示す時に使う定番の表現です。",
+    "sourcePage": 57
+  },
+  {
+    "id": "part1-16",
+    "number": 16,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "simply put",
+    "meaning": "簡単に言えば",
+    "examples": [
+      {
+        "english": "Simply put, he doesn't like sports.",
+        "japanese": "簡単に言えば、彼はスポーツが好きじゃない。"
+      },
+      {
+        "english": "Simply put, I'm not interested.",
+        "japanese": "簡単に言えば、興味がない。"
+      },
+      {
+        "english": "- Hey, how was the event? - Simply put, it was a disaster.",
+        "japanese": "- イベントどうだった? - 簡単に言えば、最悪だったよ。"
+      }
+    ],
+    "explanation": "if it is simply put の if it is が省略された形と考えると分かりやすいです。「もしそれがシンプルに置かれると = 簡単に言うと」と意味が発展しており、複雑な事柄を簡潔に説明する時に使います。to put it simply もよく使われますよ。",
+    "sourcePage": 58
+  },
+  {
+    "id": "part1-17",
+    "number": 17,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "let's say",
+    "meaning": "仮に〜としよう",
+    "examples": [
+      {
+        "english": "Let's say I invest a hundred dollars now, how much will I be able to make in a year?",
+        "japanese": "仮に今 100 ドルを投資したとしたら 1 年でどれくらい稼げるの?"
+      },
+      {
+        "english": "Let's say you were given the chance.",
+        "japanese": "仮に君にチャンスが回ってきたとしよう。"
+      }
+    ],
+    "explanation": "「〜と言ってみよう」というニュアンスから、「例えば」という意味で使われるようになった表現です。ある状況や例を示す時に使います。",
+    "sourcePage": 59
+  },
+  {
+    "id": "part1-18",
+    "number": 18,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "That's true",
+    "meaning": "確かにそうだね",
+    "examples": [
+      {
+        "english": "- I think we've got to look at it from a different angle. - Yeah, that's true.",
+        "japanese": "- 別の角度からも見ないといけないと思う。- 確かにそうだね。"
+      },
+      {
+        "english": "- Don't you think? - Yeah, that's true.",
+        "japanese": "- そう思わない? - 確かにそうだね。"
+      }
+    ],
+    "explanation": "それは正しい、という意味で、相手の意見や事実に同意する時に使います。自分は違う意見を持っているが、とりあえず相手の意見を肯定しておきたい時にも使える便利な表現です。",
+    "sourcePage": 60
+  },
+  {
+    "id": "part1-19",
+    "number": 19,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "instead of",
+    "meaning": "〜じゃなくて",
+    "examples": [
+      {
+        "english": "I think instead of trying to make a killing in the first year, I think we should first focus on the quality.",
+        "japanese": "1 年目は大儲けしようとするんじゃなくて、まずはクオリティに専念した方が良いと思う。"
+      },
+      {
+        "english": "We decided to chill at home instead of going out.",
+        "japanese": "出掛けるんじゃなくて家でゆっくりすることにした。"
+      }
+    ],
+    "explanation": "「〜の代わりに、〜じゃなくて」という意味で、あるものや行動の代替を示す時に使います。of は前置詞なので、動詞をとる時は doing の形を続けましょう(例:We decided to go to the park instead of staying at home)。",
+    "sourcePage": 61
+  },
+  {
+    "id": "part1-20",
+    "number": 20,
+    "category": "part1",
+    "categoryLabel": "Part 1",
+    "expression": "rather than",
+    "meaning": "〜よりもむしろ",
+    "examples": [
+      {
+        "english": "I think you should study pronunciation first rather than spending too much time on learning vocabulary.",
+        "japanese": "単語学習に時間を使いすぎるよりも、むしろまず発音の勉強した方が良いと思う。"
+      },
+      {
+        "english": "Instead of buying a new one, I think you should repair your old one rather than wasting money.",
+        "japanese": "新しいものを買ってお金を無駄遣いするより、むしろ古いものをお直しした方が良いと思う。"
+      }
+    ],
+    "explanation": "〜よりもむしろ、という意味で、2 つの選択肢の中で優先するものを示す時に使います。文頭に Rather だけ持ってきて、「むしろ」という意味で使うこともできます。",
+    "sourcePage": 62
+  },
+  {
+    "id": "part2-21",
+    "number": 21,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "the reason being",
+    "meaning": "理由は",
+    "examples": [
+      {
+        "english": "I made the decision not to join the program. The reason being I thought I wasn't ready yet and didn't have the competence enough to do it.",
+        "japanese": "プログラムに参加しないことにした。理由は、自分にはまだその準備ができてないし、それをこなすだけの実力もないと思ったから。"
+      }
+    ],
+    "explanation": "前述の自分の発言に対して理由を述べるときに使う表現です。the reason is… と同じ意味で使われる表現で、分詞構文が元になった表現ですが、頻出なのでフレーズとして覚えてしまいましょう。",
+    "sourcePage": 64
+  },
+  {
+    "id": "part2-22",
+    "number": 22,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "as to",
+    "meaning": "〜に関して",
+    "examples": [
+      {
+        "english": "I want to make a decision as to which university I want to attend next year.",
+        "japanese": "来年どの大学に進学するか決めたい。"
+      },
+      {
+        "english": "I want to have a discussion as to what we need to do in the next couple of months.",
+        "japanese": "今後数カ月で何をすべきか議論したい。"
+      },
+      {
+        "english": "I want to have a discussion as to which university is the best university.",
+        "japanese": "どの大学がベストなのか議論したい。"
+      }
+    ],
+    "explanation": "「〜に関して」という意味で使われる表現で、about と比べると若干フォーマルな表現です。口語でも使える表現です。",
+    "sourcePage": 65
+  },
+  {
+    "id": "part2-23",
+    "number": 23,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "whereas",
+    "meaning": "一方で",
+    "examples": [
+      {
+        "english": "I think your skill to communicate is really important, whereas there are some people who say that it's not as important as it used to be.",
+        "japanese": "コミュニケーションスキルは本当に重要だと思うけど、一方で以前ほど重要ではないと言う人もいる。"
+      },
+      {
+        "english": "He likes learning from textbooks, whereas I like learning on the job because I think it's way more efficient.",
+        "japanese": "彼は座学が好きだけど、私は仕事で学ぶ方がもっと効率的で好き。"
+      }
+    ],
+    "explanation": "「一方で」という意味で使われる表現です。but をかっこよく置き換える表現として考えると使いやすいです。",
+    "sourcePage": 66
+  },
+  {
+    "id": "part2-24",
+    "number": 24,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "whether or not",
+    "meaning": "〜かどうか",
+    "examples": [
+      {
+        "english": "Whether or not you like it doesn't matter because at the end of the day, he calls the shots.",
+        "japanese": "結局のところ彼に決定権があるから、君がそれを好きかどうかはどうでもいい。"
+      }
+    ],
+    "explanation": "「〜かどうか」という意味で使われ、この後には英文が続きます。Whether you like it or not のように、英文の最後に or not を使うこともできます。",
+    "sourcePage": 67
+  },
+  {
+    "id": "part2-25",
+    "number": 25,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "what's it called",
+    "meaning": "なんていうんだっけ",
+    "examples": [
+      {
+        "english": "He was talking about this book, what's it called, Distinction.",
+        "japanese": "彼は本の話してたんだけど、なんていう名前だっけな。あ、Distinction だ。"
+      },
+      {
+        "english": "I was reading this book... What's it called?",
+        "japanese": "本読んでたんだけど、なんていう名前だっけ。"
+      },
+      {
+        "english": "What's it called? Oh, Atsueigo! Yeah, yeah. That's the one.",
+        "japanese": "なんていうんだっけ。あ、Atsueigo! それだ。"
+      }
+    ],
+    "explanation": "It is called A で「それは A と呼ばれる」という意味になり、本表現はこの A の部分を問う疑問文なので、what is it called となります。日常会話でよく使われるので、フレーズとして覚えてしまいましょう。",
+    "sourcePage": 68
+  },
+  {
+    "id": "part2-26",
+    "number": 26,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "what's the point of doing",
+    "meaning": "〜の目的は何",
+    "examples": [
+      {
+        "english": "I was like, what's the point of doing this? What are we getting out of this?",
+        "japanese": "これの目的って一体何なの? これから何が得られるの? って感じだったよ。"
+      },
+      {
+        "english": "What's the point of doing this? I was like, I wanted to find a reason as to why we've got to do this, but you know, nobody else seemed to care.",
+        "japanese": "これの目的って何なの? これをやらないといけない理由を知りたいわって感じだったけど、他の人は別に気にしてなさそうだった。"
+      }
+    ],
+    "explanation": "point は「目的」という意味を持ち、ゆえに「〜することの目的は何?」という意味になります。of doing の部分を省略して What's the point?(目的は何? そんなことしてどうするの?)だけで使うことも多いです。",
+    "sourcePage": 69
+  },
+  {
+    "id": "part2-27",
+    "number": 27,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "That's a fair point",
+    "meaning": "確かにそうだね",
+    "examples": [
+      {
+        "english": "- I think we've got to consider this as well. - Oh, that's a fair point.",
+        "japanese": "- これも考慮しないといけないと思うよ。- あ、確かにそうだね。"
+      },
+      {
+        "english": "- I think we've got to do this as well. - Yeah, that's a fair point.",
+        "japanese": "- これもやらないといけないと思うよ。- あ、確かにそうだね。"
+      },
+      {
+        "english": "- I think this is very important too. - Yeah, that's a fair point. That's true.",
+        "japanese": "- これもすごく大事だと思うよ。- あ、そうだね。確かに確かに。"
+      }
+    ],
+    "explanation": "相手の意見や発言に対して同意を示す時に使われる表現です。Part 1 で紹介した That's true の代替表現として覚えておきましょう。",
+    "sourcePage": 70
+  },
+  {
+    "id": "part2-28",
+    "number": 28,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "come across",
+    "meaning": "〜に出会う、見つける",
+    "examples": [
+      {
+        "english": "I came across this book at the bookstore.",
+        "japanese": "本屋でこの本に出合った。"
+      },
+      {
+        "english": "I came across an old friend on the street.",
+        "japanese": "道で昔の友達に出会った。"
+      },
+      {
+        "english": "I came across this information on the internet.",
+        "japanese": "ネットでこの情報を見つけた。"
+      }
+    ],
+    "explanation": "あるものを横切る(= across)イメージから、「人に出会う、物に出合う」という意味で使われます。意図的ではなく、偶然見つける感覚が強い表現です。",
+    "sourcePage": 71
+  },
+  {
+    "id": "part2-29",
+    "number": 29,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "going back to",
+    "meaning": "〜に戻ると",
+    "examples": [
+      {
+        "english": "Going back to your question, my answer is no.",
+        "japanese": "さっきの君の質問に戻ると、答えはノーだ。"
+      },
+      {
+        "english": "Going back to your question, my answer is simply put no.",
+        "japanese": "さっきの君の質問に戻ると、簡単に言えば、答えはノーだ。"
+      }
+    ],
+    "explanation": "If I go back to の If I の部分が省略され、go が going に変形した分詞構文です。前に話されていたトピックや質問などに話題を戻す時によく使われます。",
+    "sourcePage": 72
+  },
+  {
+    "id": "part2-30",
+    "number": 30,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "in this case",
+    "meaning": "この場合は",
+    "examples": [
+      {
+        "english": "In this case, I think we need to take a different approach.",
+        "japanese": "この場合、別のアプローチが必要だと思う。"
+      },
+      {
+        "english": "Oh, that's a fair point. But in this case, I think we should take a different approach.",
+        "japanese": "確かにそうだね。でもこの場合は、別のアプローチをするべきだと思う。"
+      },
+      {
+        "english": "That's a fair point, that's true, but in this case, it doesn't matter because...",
+        "japanese": "確かにそうだね。でもこの場合は関係ないと思う。だって…"
+      },
+      {
+        "english": "In this case, it doesn't matter. The reason being...",
+        "japanese": "この場合は関係ないと思う。だって…"
+      }
+    ],
+    "explanation": "ここでの case は「場合・状況」という意味で使われており、ゆえに「この場合の中では=この場合・状況では」という意味になります。",
+    "sourcePage": 73
+  },
+  {
+    "id": "part2-31",
+    "number": 31,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "more about",
+    "meaning": "〜の方がもっと重要だ",
+    "examples": [
+      {
+        "english": "The first stage is more about understanding the concept.",
+        "japanese": "最初の段階では概念を理解する方が重要だよ。"
+      },
+      {
+        "english": "The first stage is more about understanding the concept rather than understanding the mechanism of it.",
+        "japanese": "最初の段階では構造を理解するよりも概念を理解する方が重要だよ。"
+      },
+      {
+        "english": "This web page is more about its aesthetics that's important.",
+        "japanese": "このウェブページは、美しさの方がもっと重要なんだよ。"
+      },
+      {
+        "english": "This web page is more about its aesthetics that's important than its content.",
+        "japanese": "このウェブページは、内容より美しさの方がもっと重要なんだよ。"
+      },
+      {
+        "english": "This web page is more about its aesthetics that's important than what we can do with it.",
+        "japanese": "このウェブページは、それで何ができるかより美しさの方がもっと重要なんだよ。"
+      }
+    ],
+    "explanation": "直訳すると「(〜よりも)どちらかというと(= more)〜に関するものだ(= about)」となり、そこから「〜の方がもっと重要だ」という意味になります。例文の that's important という部分はその重要性を強調する役割を果たしています。",
+    "sourcePage": 74
+  },
+  {
+    "id": "part2-32",
+    "number": 32,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "for the sake of",
+    "meaning": "〜のために",
+    "examples": [
+      {
+        "english": "I don't understand why we've got to do this for the sake of a dollar.",
+        "japanese": "たった 1 ドルのために、なんでこんなことしないといけないのか理解できない。"
+      },
+      {
+        "english": "For the sake of clarity, let me explain this again.",
+        "japanese": "明確にするために、これもう一回説明させて。"
+      },
+      {
+        "english": "I started feeling like I was doing it for the sake of doing it.",
+        "japanese": "それをやること自体が目的化してるような感じになり始めちゃったんだよね。"
+      }
+    ],
+    "explanation": "sake は「目的」という意味を持ち、ゆえに for the sake of は「〜の目的のために = 〜のために」となります。do sth for the sake of doing sth(〜するために〜する = 〜自体が目的化している)という形もよく使われます。",
+    "sourcePage": 75
+  },
+  {
+    "id": "part2-33",
+    "number": 33,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "like you said",
+    "meaning": "あなたが言ったように",
+    "examples": [
+      {
+        "english": "Like you said, this is one of the biggest problems.",
+        "japanese": "君が言ったように、これは一番大きな問題の一つだね。"
+      },
+      {
+        "english": "Going back to the topic, I think we've got to make a decision as to what we've got to do about this because, like you said, this is one of the biggest issues.",
+        "japanese": "さっきの話題に戻ると、君が言ったようにこれは一番大きな問題の一つだから、何をすべきか決めないといけないと思う。"
+      }
+    ],
+    "explanation": "ここでの like は「〜のように」という意味の接続詞で、ゆえに「あなたが言ったように」となります。",
+    "sourcePage": 76
+  },
+  {
+    "id": "part2-34",
+    "number": 34,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "this might be just me, but",
+    "meaning": "これは私だけかもしれないけど",
+    "examples": [
+      {
+        "english": "This might be just me, but don't you think this is a bit too expensive?",
+        "japanese": "こう思うの私だけかもしれないけど、これちょっと高すぎじゃない?"
+      },
+      {
+        "english": "This might be just me, but don't you think this is a bit too bright?",
+        "japanese": "こう思うの私だけかもしれないけど、これちょっと明るすぎじゃない?"
+      },
+      {
+        "english": "This might be just me, but I don't find it interesting.",
+        "japanese": "私だけかもしれないけど、面白いと思わない。"
+      },
+      {
+        "english": "This might be just me, but this video is just not interesting.",
+        "japanese": "こう思うの私だけかもしれないけど、この動画別に面白くない。"
+      },
+      {
+        "english": "This might be just me, but I find it really funny.",
+        "japanese": "私だけかもしれないけど、すごく面白いと思った。"
+      }
+    ],
+    "explanation": "ある考えや意見に関して、「もしかしたらこう思うのは自分だけなのかもしれないけど」と、自分の主張の強さを弱める時に使います。",
+    "sourcePage": 77
+  },
+  {
+    "id": "part2-35",
+    "number": 35,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "get to the point",
+    "meaning": "要点を言う",
+    "examples": [
+      {
+        "english": "I wish this guy would just get to the point.",
+        "japanese": "この人、早く要点を言ってくれればいいのに。"
+      },
+      {
+        "english": "Just get straight to the point.",
+        "japanese": "もう端的に要点を言ってくれ。"
+      }
+    ],
+    "explanation": "get to は「〜にたどり着く」という意味なので、そこから「ポイントにたどり着く = 要点を言う」という意味になります。Just get straight to the point(とにかく要点だけ言って)のように、強調のために straight が入ることも多いです。",
+    "sourcePage": 78
+  },
+  {
+    "id": "part2-36",
+    "number": 36,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "end up doing",
+    "meaning": "最終的に〜することになる",
+    "examples": [
+      {
+        "english": "I was such a couch potato when I was a uni student, but I ended up regretting it.",
+        "japanese": "大学生の時、めちゃくちゃダラダラしてたけど、結局後悔した。"
+      },
+      {
+        "english": "I didn't want to go to the party, but I ended up having a lot of fun.",
+        "japanese": "パーティー行きたくなかったけど、結局めっちゃ楽しんだ。"
+      }
+    ],
+    "explanation": "直訳すると「〜すること(= doing)で終了する(= end up)」となり、そこから「結局〜する」となります。end up (as) sth(最終的に〜になる)という形も頻繁に使われます。",
+    "sourcePage": 79
+  },
+  {
+    "id": "part2-37",
+    "number": 37,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "it is what it is",
+    "meaning": "仕方がない",
+    "examples": [
+      {
+        "english": "There's nothing I can do about it, so it is what it is.",
+        "japanese": "どうすることもできないから、仕方ない。"
+      }
+    ],
+    "explanation": "what + 主語 + 動詞で「主語が動詞すること」という意味で、ゆえに what it is は「その状態であること = ありのままの姿」を意味します。よって、この表現は「それはありのままの姿なんだ = 仕方ない、そういうものさ」という意味で使われます。",
+    "sourcePage": 80
+  },
+  {
+    "id": "part2-38",
+    "number": 38,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "in general",
+    "meaning": "全体的に、一般に",
+    "examples": [
+      {
+        "english": "What did you think about this in general?",
+        "japanese": "全体的にどう思った?"
+      }
+    ],
+    "explanation": "overall や by and large と同じ意味で使われる表現で、話の内容を「ざっくりと」捉えたい時に使われる表現です。",
+    "sourcePage": 81
+  },
+  {
+    "id": "part2-39",
+    "number": 39,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "at all",
+    "meaning": "ちょっとでも",
+    "examples": [
+      {
+        "english": "Did you like it at all?",
+        "japanese": "ちょっとでも良いと思った?"
+      },
+      {
+        "english": "If you like this video at all, please hit the like button.",
+        "japanese": "この動画がちょっとでも気に入ってくれたら高評価お願いします。"
+      }
+    ],
+    "explanation": "否定文で「全く〜ない」という意味で使われる表現としてよく習いますが、if 節や疑問文でもよく使われ、その場合は「ちょっとでも」という意味で使われます。",
+    "sourcePage": 82
+  },
+  {
+    "id": "part2-40",
+    "number": 40,
+    "category": "part2",
+    "categoryLabel": "Part 2",
+    "expression": "if that's the case",
+    "meaning": "もしそうなら",
+    "examples": [
+      {
+        "english": "Did he prepare all the slides? If that's the case, you don't have to do anything.",
+        "japanese": "彼がスライド全部作ったの? もしそうなら、君は何もしなくて良いよ。"
+      },
+      {
+        "english": "Did he prepare all the slides? If that's the case, I don't have to do anything, right?",
+        "japanese": "彼がスライド全部作ったの? もしそうなら、私は何もしなくて良いんだよね。"
+      }
+    ],
+    "explanation": "直訳すると「もしそれが実際の場合・状況ならば」となり、それが発展して「それが本当なら」という意味で使われるようになった表現です。",
+    "sourcePage": 83
+  },
+  {
+    "id": "part3-01",
+    "number": 1,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "I'd say",
+    "meaning": "私の意見では",
+    "examples": [
+      {
+        "english": "I'd say the price is pretty fair.",
+        "japanese": "価格はかなり妥当だと思います。"
+      },
+      {
+        "english": "I'd say it was a great experience, but I don't think everyone would feel the same way.",
+        "japanese": "素晴らしい経験だったと私は思いますが、みんなが同感するとは思いません。"
+      }
+    ],
+    "explanation": "自分の意見や感想を述べる際に使えます。控えめに言いたいときにも便利です。",
+    "sourcePage": 85
+  },
+  {
+    "id": "part3-02",
+    "number": 2,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "in the process of",
+    "meaning": "〜の過程にある",
+    "examples": [
+      {
+        "english": "We're in the process of trying to figure out what caused the issue.",
+        "japanese": "私たちは問題の原因を解明しようとしています。"
+      },
+      {
+        "english": "I'm in the process of learning English.",
+        "japanese": "英語学習の過程にあります。"
+      }
+    ],
+    "explanation": "何かの進行中であることを示すときに使います。目標に向かっている途中であることを強調する表現です。",
+    "sourcePage": 86
+  },
+  {
+    "id": "part3-03",
+    "number": 3,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "it's more like",
+    "meaning": "むしろ〜のようだ",
+    "examples": [
+      {
+        "english": "I wouldn't say it's work. It's more like my hobby, if that makes sense.",
+        "japanese": "それは仕事というよりは、趣味のようなものです。"
+      },
+      {
+        "english": "It's not exactly a party; it's more like a social gathering.",
+        "japanese": "正確にはパーティーというわけではなく、むしろ社交的な集まりです。"
+      }
+    ],
+    "explanation": "正確な説明を避けて、より適切な例や比喩を使うときに使います。相手に分かりやすく伝えるための表現です。",
+    "sourcePage": 87
+  },
+  {
+    "id": "part3-04",
+    "number": 4,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "from that point of view",
+    "meaning": "その観点から見ると",
+    "examples": [
+      {
+        "english": "I think it makes sense from that point of view.",
+        "japanese": "その観点からは理解できるかもしれません。"
+      },
+      {
+        "english": "I don't think I made the right decision from that point of view.",
+        "japanese": "その観点から見ると、正しい判断ではなかったと思います。"
+      }
+    ],
+    "explanation": "特定の視点や観点から物事を考えるときに使います。別の見方を提供したいときに役立ちます。",
+    "sourcePage": 88
+  },
+  {
+    "id": "part3-05",
+    "number": 5,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "if that works for you",
+    "meaning": "それが都合がいいなら",
+    "examples": [
+      {
+        "english": "Can we do a zoom call on Wednesday, if that works for you?",
+        "japanese": "ご都合が良ければ、水曜日に Zoom で会議できますか?"
+      },
+      {
+        "english": "I can send it tomorrow, if that works for you.",
+        "japanese": "もしそれで良ければ、明日送ります。"
+      }
+    ],
+    "explanation": "相手の都合や意向を確認する際に使います。柔軟で配慮のあるコミュニケーションを促します。",
+    "sourcePage": 89
+  },
+  {
+    "id": "part3-06",
+    "number": 6,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "just out of curiosity",
+    "meaning": "単なる好奇心から",
+    "examples": [
+      {
+        "english": "Just out of curiosity, why did you come to Japan?",
+        "japanese": "単なる好奇心からですが、なぜ日本に来たんですか?"
+      },
+      {
+        "english": "Just asking out of curiosity, so if you don't want to answer, that's totally fine.",
+        "japanese": "単なる好奇心から聞いていますので、答えたくなければそれで全く問題ありません。"
+      }
+    ],
+    "explanation": "単なる好奇心から質問するときに使います。相手に負担をかけないような質問の仕方です。",
+    "sourcePage": 90
+  },
+  {
+    "id": "part3-07",
+    "number": 7,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "off-topic, but",
+    "meaning": "話は変わりますが",
+    "examples": [
+      {
+        "english": "Bit off-topic, but I just finished editing the video.",
+        "japanese": "少し話は変わりますが、動画編集を終えました。"
+      },
+      {
+        "english": "Off topic, but did you end up going to the cafe? How was it?",
+        "japanese": "話は変わりますが、結局そのカフェに行きましたか? どうでしたか?"
+      }
+    ],
+    "explanation": "話題を変えるときに使います。会話の流れを保ちながら、別の重要な点に移ることができます。",
+    "sourcePage": 91
+  },
+  {
+    "id": "part3-08",
+    "number": 8,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "out of the blue",
+    "meaning": "突然に",
+    "examples": [
+      {
+        "english": "Everyone started talking about it out of the blue.",
+        "japanese": "皆、突然その話を始めました。"
+      },
+      {
+        "english": "Out of the blue, she brought up the topic and I was like, \"What the heck?\"",
+        "japanese": "突然、彼女がその話題を持ち出して、私は「何だって?」と思いました。"
+      }
+    ],
+    "explanation": "予期せぬことが起こったり話題が出たりしたときに使います。驚きを表現するのに適しています。",
+    "sourcePage": 92
+  },
+  {
+    "id": "part3-09",
+    "number": 9,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "off the top of my head",
+    "meaning": "思いつくままに",
+    "examples": [
+      {
+        "english": "Off the top of my head, I think it's wrong.",
+        "japanese": "思いつくままに言うと、それは間違っていると思います。"
+      },
+      {
+        "english": "I can't remember all the details off the top of my head, but I'll send it later.",
+        "japanese": "詳細はすぐには思い出せませんが、後で送ります。"
+      }
+    ],
+    "explanation": "即座に思いつくことを述べるときに使います。詳細な情報がない場合に便利な表現です。",
+    "sourcePage": 93
+  },
+  {
+    "id": "part3-10",
+    "number": 10,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "but at the same time",
+    "meaning": "しかし同時に",
+    "examples": [
+      {
+        "english": "He's intelligent, but at the same time, he's a little bit stupid in a way.",
+        "japanese": "彼は賢いですが、同時に少し愚かな面もあります。"
+      },
+      {
+        "english": "I wanna have fun, but at the same time, I want some learning.",
+        "japanese": "楽しみたいですが、同時に学びも得たいです。"
+      }
+    ],
+    "explanation": "相反する二つの事柄を同時に述べるときに使います。バランスの取れた視点を提供するのに役立ちます。",
+    "sourcePage": 94
+  },
+  {
+    "id": "part3-11",
+    "number": 11,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "the flip side of it is...",
+    "meaning": "それの裏側は… / その反面",
+    "examples": [
+      {
+        "english": "It makes you look good, but the flip side of it is you're making so much effort.",
+        "japanese": "それはあなたを良く見せますが、反面、多くの努力を要します。"
+      },
+      {
+        "english": "This approach is efficient, but the flip side of it is it costs more.",
+        "japanese": "この方法は効率的ですが、その反面、費用がかかります。"
+      }
+    ],
+    "explanation": "物事の別の側面や反対の面を述べる際に使います。バランスの取れた意見を述べるのに役立つ表現です。",
+    "sourcePage": 95
+  },
+  {
+    "id": "part3-12",
+    "number": 12,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "from the perspective of",
+    "meaning": "〜の観点から",
+    "examples": [
+      {
+        "english": "Making complaints usually doesn't give you anything from the perspective of solving the problem.",
+        "japanese": "不満を言うことは、問題を解決する観点からは何ももたらしません。"
+      },
+      {
+        "english": "I think being able to speak two languages is really helpful from the perspective of having options in my life.",
+        "japanese": "人生において選択肢を持つ観点から、2 ヶ国語を話せることはとても役立つと思います。"
+      }
+    ],
+    "explanation": "特定の視点や観点から物事を考えるときに使います。異なる見方や立場を示すのに便利です。",
+    "sourcePage": 96
+  },
+  {
+    "id": "part3-13",
+    "number": 13,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "two sides of the same coin",
+    "meaning": "表裏一体",
+    "examples": [
+      {
+        "english": "I'd say risk and opportunity are two sides of the same coin.",
+        "japanese": "リスクとチャンスは表裏一体だと言えます。"
+      },
+      {
+        "english": "Pain and gain are two sides of the same coin.",
+        "japanese": "苦痛と得るものは表裏一体です。"
+      }
+    ],
+    "explanation": "対立するが密接に関連している二つの側面を示すときに使います。リスクとチャンスのような関係を説明するのに役立ちます。",
+    "sourcePage": 97
+  },
+  {
+    "id": "part3-14",
+    "number": 14,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "like I (you) said,",
+    "meaning": "私(あなた)が言ったように",
+    "examples": [
+      {
+        "english": "Like I said, it's completely up to you.",
+        "japanese": "私が言ったように、それは完全にあなた次第です。"
+      },
+      {
+        "english": "Like you said, I think it's important to have a balance between work and life.",
+        "japanese": "あなたが言ったように、仕事と私生活のバランスを取ることは大事だと思います。"
+      }
+    ],
+    "explanation": "自分または相手が以前に言ったことを繰り返すときに使います。会話の連続性を保つのに便利です。",
+    "sourcePage": 98
+  },
+  {
+    "id": "part3-15",
+    "number": 15,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "I'm more of a",
+    "meaning": "私はむしろ〜タイプの人間です",
+    "examples": [
+      {
+        "english": "I'm more of a minimalist so I don't like to own a lot of things.",
+        "japanese": "私はミニマリストタイプなので、たくさんのものを持つのが好きではありません。"
+      },
+      {
+        "english": "I'm more of a just go with the flow kind of person so I don't really care.",
+        "japanese": "私は流れに任せるタイプなので、あまり気にしません。"
+      }
+    ],
+    "explanation": "自分の性格や嗜好を説明するときに使います。",
+    "sourcePage": 99
+  },
+  {
+    "id": "part3-16",
+    "number": 16,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "it's all about",
+    "meaning": "すべては〜にかかっている",
+    "examples": [
+      {
+        "english": "It's all about what you really wanna achieve.",
+        "japanese": "すべてはあなたが本当に達成したいことにかかっています。"
+      },
+      {
+        "english": "It's all about how you study.",
+        "japanese": "すべてはあなたがどのように勉強するかにかかっています。"
+      }
+    ],
+    "explanation": "物事の核心や最も重要な要素を強調するときに使います。何が本当に重要なのかを示すのに役立ちます。",
+    "sourcePage": 100
+  },
+  {
+    "id": "part3-17",
+    "number": 17,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "given that",
+    "meaning": "〜を考慮すると",
+    "examples": [
+      {
+        "english": "I'd say I'm more of a minimalist, given that I only have a couple of things in my room.",
+        "japanese": "部屋に持ち物が少ないことを考慮すると、私はミニマリストだと言えます。"
+      },
+      {
+        "english": "It kind of makes sense that many people are trying to leave this company, given that it's got so many problems.",
+        "japanese": "この会社に多くの問題があることを考慮すると、多くの人がこの会社を辞めようとしているのは理解できます。"
+      }
+    ],
+    "explanation": "何かを考慮するときに使います。特定の状況や条件を前提にして説明をするのに便利です。",
+    "sourcePage": 101
+  },
+  {
+    "id": "part3-18",
+    "number": 18,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "I might be wrong, but",
+    "meaning": "私が間違っているかもしれませんが",
+    "examples": [
+      {
+        "english": "I might be wrong, but isn't this calc incorrect?",
+        "japanese": "間違っているかもしれませんが、この計算は間違ってませんか?"
+      },
+      {
+        "english": "I might be wrong, but I think he's very intelligent.",
+        "japanese": "間違っているかもしれませんが、彼はとても賢いと思います。"
+      }
+    ],
+    "explanation": "自分の意見や指摘が正しいかどうか自信がないときに使います。謙虚さを示しつつ意見を述べるのに適しています。",
+    "sourcePage": 102
+  },
+  {
+    "id": "part3-19",
+    "number": 19,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "in terms of",
+    "meaning": "〜の点では",
+    "examples": [
+      {
+        "english": "I think my English is okay in terms of vocabulary, but my pronunciation needs more improvement.",
+        "japanese": "語彙の点では私の英語は大丈夫だと思いますが、発音はもっと改善が必要です。"
+      },
+      {
+        "english": "It's not great in terms of health, but it tastes so good.",
+        "japanese": "健康の点では良くないですが、とても美味しいです。"
+      }
+    ],
+    "explanation": "特定の観点や基準から物事を説明するときに使います。複数の側面を比較するのに役立ちます。",
+    "sourcePage": 103
+  },
+  {
+    "id": "part3-20",
+    "number": 20,
+    "category": "part3",
+    "categoryLabel": "Part 3",
+    "expression": "this is something that",
+    "meaning": "これは〜というものだ",
+    "examples": [
+      {
+        "english": "This is something that I've always wanted to do.",
+        "japanese": "これは私がいつもやりたかったことです。"
+      },
+      {
+        "english": "This is something that only I can do.",
+        "japanese": "これは私にしかできないことです。"
+      }
+    ],
+    "explanation": "特定の事柄を強調するときに使います。自分にとって特別な意味を持つことや、重要な目標を示すのに便利です。",
+    "sourcePage": 104
+  }
+]
