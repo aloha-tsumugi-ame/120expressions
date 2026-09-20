@@ -379,6 +379,179 @@ body {
   font-size: 14px;
 }
 
+/* ---------- word bank ---------- */
+
+/* Mobile-first: a bottom sheet toggled by a floating button. The desktop
+   sidebar treatment (docked, always visible) is layered on top via a
+   min-width media query further down, so the JS only ever needs to worry
+   about the mobile open/closed state. */
+
+.word-bank {
+  position: fixed;
+  left: 12px;
+  right: 12px;
+  bottom: 0;
+  z-index: 60;
+  max-height: 72vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 14px 14px 0 0;
+  box-shadow: 0 -12px 28px rgba(16, 24, 40, 0.14);
+  padding: 14px 14px 16px;
+  transform: translateY(110%);
+  transition: transform 0.25s ease;
+}
+
+.word-bank.is-open { transform: translateY(0); }
+
+.word-bank-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  flex: 0 0 auto;
+}
+
+.word-bank-title {
+  margin: 0;
+  font-family: var(--font-en);
+  font-size: 15px;
+  font-weight: 650;
+  color: var(--text);
+}
+
+.word-bank-hint {
+  margin: 2px 0 0;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}
+
+.word-bank-close {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  color: var(--text-faint);
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.word-bank-close svg { width: 13px; height: 13px; display: block; }
+
+.word-bank-close:hover { color: var(--text); background: var(--bg-subtle); }
+
+.word-bank-tabs {
+  flex: 0 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.word-bank-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.wb-panel[hidden] { display: none; }
+
+.wb-group-label {
+  margin: 14px 0 6px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+.wb-group-label:first-child { margin-top: 0; }
+
+.wb-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.wb-chip {
+  display: inline-block;
+  padding: 4px 10px;
+  font-family: var(--font-en);
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--text-muted);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.word-bank-toggle {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 55;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 18px;
+  font-family: var(--font-jp);
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: 999px;
+  box-shadow: 0 6px 16px rgba(37, 99, 235, 0.32);
+  cursor: pointer;
+}
+
+.word-bank-toggle svg { width: 16px; height: 16px; flex: 0 0 auto; }
+
+.word-bank-toggle:hover { background: #1d4fd8; }
+
+.word-bank-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 59;
+  background: rgba(15, 23, 42, 0.32);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.word-bank-backdrop.is-open { opacity: 1; pointer-events: auto; }
+
+@media (min-width: 1440px) {
+  .word-bank {
+    left: auto;
+    right: 20px;
+    bottom: auto;
+    top: 158px;
+    width: 240px;
+    max-height: calc(100vh - 178px);
+    transform: none;
+    border-radius: var(--radius);
+    box-shadow: none;
+    padding: 14px;
+  }
+
+  .word-bank-close,
+  .word-bank-toggle,
+  .word-bank-backdrop {
+    display: none;
+  }
+}
+
 .site-footer {
   padding: 32px 0 48px;
   color: var(--text-faint);

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "adjective",
+    "label": "形容詞",
+    "groups": [
+      {
+        "label": "感情・気分",
+        "words": ["happy", "sad", "excited", "nervous", "worried", "upset", "annoyed", "surprised", "embarrassed", "disappointed", "relaxed", "confident", "grateful", "proud", "scared", "lonely"]
+      },
+      {
+        "label": "評価・感想",
+        "words": ["good", "bad", "great", "amazing", "interesting", "boring", "funny", "strange", "impressive", "important", "useful", "helpful", "convenient", "necessary", "reasonable", "expensive", "cheap"]
+      },
+      {
+        "label": "難易度・可能性",
+        "words": ["easy", "difficult", "hard", "simple", "complicated", "possible", "impossible", "likely", "unlikely", "clear", "confusing"]
+      },
+      {
+        "label": "状態",
+        "words": ["busy", "tired", "ready", "hungry", "sleepy", "sick", "healthy", "comfortable", "crowded", "quiet", "loud", "clean", "dirty", "safe", "dangerous", "hot", "cold", "fast", "slow"]
+      },
+      {
+        "label": "人柄・態度",
+        "words": ["kind", "friendly", "polite", "rude", "honest", "careful", "careless", "patient", "calm", "serious", "smart", "creative", "responsible", "supportive", "strict", "flexible"]
+      }
+    ]
+  },
+  {
+    "id": "noun",
+    "label": "名詞",
+    "groups": [
+      {
+        "label": "人・関係",
+        "words": ["friend", "coworker", "colleague", "manager", "boss", "client", "customer", "neighbor", "partner", "family", "parent", "team", "member", "teacher", "student"]
+      },
+      {
+        "label": "仕事・勉強",
+        "words": ["work", "job", "meeting", "project", "task", "deadline", "report", "presentation", "schedule", "email", "document", "question", "answer", "feedback", "advice", "skill", "experience"]
+      },
+      {
+        "label": "日常生活",
+        "words": ["phone", "laptop", "bag", "room", "kitchen", "food", "coffee", "dinner", "movie", "book", "music", "game", "exercise", "sleep", "weather", "clothes", "car"]
+      },
+      {
+        "label": "場所・移動",
+        "words": ["office", "home", "station", "train", "airport", "hotel", "restaurant", "cafe", "gym", "store", "city", "country", "school", "park", "hospital"]
+      },
+      {
+        "label": "抽象的なもの",
+        "words": ["time", "money", "reason", "chance", "choice", "idea", "plan", "goal", "problem", "mistake", "habit", "change", "difference", "result", "situation", "opinion", "decision", "opportunity"]
+      }
+    ]
+  },
+  {
+    "id": "verb",
+    "label": "動詞",
+    "groups": [
+      {
+        "label": null,
+        "words": ["go", "come", "get", "make", "take", "give", "use", "need", "want", "like", "know", "think", "feel", "find", "try", "start", "stop", "finish", "keep", "work", "study", "learn", "practice", "speak", "talk", "tell", "ask", "help", "wait", "choose", "decide", "plan", "check", "change", "buy", "cook", "eat", "drink", "watch", "read", "travel", "meet"]
+      }
+    ]
+  },
+  {
+    "id": "gerund",
+    "label": "動名詞",
+    "groups": [
+      {
+        "label": null,
+        "words": ["working", "studying", "learning", "speaking", "reading", "writing", "cooking", "exercising", "traveling", "driving", "shopping", "waiting", "talking", "practicing", "watching", "listening", "cleaning", "planning", "preparing", "helping"]
+      }
+    ]
+  },
+  {
+    "id": "time",
+    "label": "時間",
+    "groups": [
+      {
+        "label": null,
+        "words": ["a minute", "five minutes", "ten minutes", "half an hour", "an hour", "two hours", "a day", "a week", "a month", "a year", "a long time", "a while"]
+      }
+    ]
+  }
+]

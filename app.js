@@ -3,6 +3,7 @@
   "use strict";
 
   var DATA_URL = "./data/expressions.json";
+  var WORD_BANK_URL = "./data/word-bank.json";
 
   var state = {
     items: [],
@@ -19,7 +20,13 @@
     search: document.getElementById("search"),
     filters: document.getElementById("filters"),
     speed: document.getElementById("speed"),
-    speechWarning: document.getElementById("speech-warning")
+    speechWarning: document.getElementById("speech-warning"),
+    wordBank: document.getElementById("word-bank"),
+    wordBankTabs: document.getElementById("word-bank-tabs"),
+    wordBankBody: document.getElementById("word-bank-body"),
+    wordBankToggle: document.getElementById("word-bank-toggle"),
+    wordBankClose: document.getElementById("word-bank-close"),
+    wordBankBackdrop: document.getElementById("word-bank-backdrop")
   };
 
   /* ------------------------------------------------------------------ *
@@ -351,6 +358,108 @@
       clearActiveButton();
     }
   });
+
+  /* ------------------------------------------------------------------ *
+   * Word Bank
+   *
+   * Reference-only vocabulary list (adjectives / nouns / verbs / gerunds /
+   * time expressions) for filling in the blanks of a construction while
+   * practicing speaking. It never touches the expression data or search —
+   * words are not inserted anywhere, just displayed for reference.
+   * ------------------------------------------------------------------ */
+
+  var wordBankOpen = false;
+
+  function setWordBankOpen(open) {
+    wordBankOpen = open;
+    els.wordBank.classList.toggle("is-open", open);
+    els.wordBankBackdrop.classList.toggle("is-open", open);
+    els.wordBankToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+
+  els.wordBankToggle.addEventListener("click", function () {
+    setWordBankOpen(!wordBankOpen);
+  });
+  els.wordBankClose.addEventListener("click", function () {
+    setWordBankOpen(false);
+  });
+  els.wordBankBackdrop.addEventListener("click", function () {
+    setWordBankOpen(false);
+  });
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape" && wordBankOpen) setWordBankOpen(false);
+  });
+
+  function createWordBankPanel(tab) {
+    var panel = el("div", "wb-panel");
+    panel.id = "wb-panel-" + tab.id;
+    panel.hidden = true;
+    panel.setAttribute("role", "tabpanel");
+
+    for (var i = 0; i < tab.groups.length; i++) {
+      var group = tab.groups[i];
+      if (group.label) panel.appendChild(el("p", "wb-group-label", group.label));
+
+      var chips = el("div", "wb-chips");
+      for (var j = 0; j < group.words.length; j++) {
+        chips.appendChild(el("span", "wb-chip", group.words[j]));
+      }
+      panel.appendChild(chips);
+    }
+
+    return panel;
+  }
+
+  function selectWordBankTab(tabId) {
+    var tabButtons = els.wordBankTabs.querySelectorAll("button[data-wb-tab]");
+    for (var i = 0; i < tabButtons.length; i++) {
+      var isActive = tabButtons[i].dataset.wbTab === tabId;
+      tabButtons[i].classList.toggle("is-active", isActive);
+      tabButtons[i].setAttribute("aria-selected", isActive ? "true" : "false");
+    }
+
+    var panels = els.wordBankBody.querySelectorAll(".wb-panel");
+    for (var j = 0; j < panels.length; j++) {
+      panels[j].hidden = panels[j].id !== "wb-panel-" + tabId;
+    }
+
+    els.wordBankBody.scrollTop = 0;
+  }
+
+  function initWordBank(tabs) {
+    els.wordBankTabs.setAttribute("role", "tablist");
+
+    for (var i = 0; i < tabs.length; i++) {
+      var tab = tabs[i];
+
+      var button = el("button", "pill pill-sm" + (i === 0 ? " is-active" : ""), tab.label);
+      button.type = "button";
+      button.dataset.wbTab = tab.id;
+      button.setAttribute("role", "tab");
+      button.setAttribute("aria-selected", i === 0 ? "true" : "false");
+      button.addEventListener("click", function () {
+        selectWordBankTab(this.dataset.wbTab);
+      });
+      els.wordBankTabs.appendChild(button);
+
+      els.wordBankBody.appendChild(createWordBankPanel(tab));
+    }
+
+    selectWordBankTab(tabs[0].id);
+  }
+
+  fetch(WORD_BANK_URL)
+    .then(function (response) {
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      return response.json();
+    })
+    .then(initWordBank)
+    .catch(function () {
+      // Word Bank is a reference-only convenience; if it fails to load the
+      // rest of the site (search, cards, speech) must keep working normally.
+      els.wordBankToggle.hidden = true;
+      els.wordBank.hidden = true;
+    });
 
   /* ------------------------------------------------------------------ *
    * Boot
